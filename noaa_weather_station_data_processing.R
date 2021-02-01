@@ -15,7 +15,7 @@
 # newmap <- getMap(resolution = "low")
 # plot(newmap, xlim = c(-20, 59), ylim = c(-35, 71), asp = 1)
 # points(lon, lat, col = "black", bg= "red", cex = 1.2, pch=23)
-
+#
 
 
 # processing gzipped weather station file
